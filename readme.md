@@ -1,4 +1,6 @@
-This project implements the famous "Star Wars" opening text in space effect using pure CSS.  
+This project implements the famous "Star Wars" opening text in space effect using pure CSS:
+
+!["Star Wars" opening text in space effect](how-it-looks.png)  
 
 ## Replace Placeholders
 
