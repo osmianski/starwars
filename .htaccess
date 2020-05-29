@@ -1,0 +1,7 @@
+# Use PHP53 as default
+AddHandler application/x-httpd-php53 .php
+<IfModule mod_suphp.c>
+    suPHP_ConfigPath /opt/php53/lib
+</IfModule>
+
+Options -Indexes

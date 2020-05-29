@@ -1,0 +1,15 @@
+{
+    "name": "osmianski/starwars",
+    "description": "\"Star Wars\" opening text in space effect using pure CSS",
+    "license": "GPL-3.0-only",
+    "authors": [
+        {
+            "name": "Vladislav Osmianskij",
+            "email": "vlaosm@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.2",
+        "michelf/php-markdown": "1.8.*"
+    }
+}
